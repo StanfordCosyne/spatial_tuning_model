@@ -1,7 +1,9 @@
 # Spatial Tuning Model
 ![alt text](https://github.com/StanfordCosyne/spatial_tuning_model/blob/fc2698ac556504eb84e887d9e1ac6af6496939b3/figures/methods_figure.png)
 
-This repository holds code for the tuning model originally used for the study:
+
+
+This repository contains code for the tuning model originally used for the study:
 
     Computational modeling reveals weak spatial tuning of problem representations in children with dyscalculia
     Teresa Iuculano, Jonathan Nicholas, Ting-Ting Chang, Arron, W. S. Metcalfe, Vinod Menon
