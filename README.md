@@ -55,3 +55,5 @@ datasets for comparison with the original data.
 ### scripts/old/*
 This directory has several analysis and plotting functions that have been previously useful but are
 not integrated with the current version of the code
+
+*On sherlock, this directory lives here: /oak/stanford/groups/menon/projects/jnichola/spatial_tuning_model*
