@@ -1,4 +1,5 @@
 # Spatial Tuning Model
+![alt text](https://github.com/StanfordCosyne/spatial_tuning_model/blob/fc2698ac556504eb84e887d9e1ac6af6496939b3/figures/methods_figure.png)
 
 This repository holds code for the tuning model originally used for the study:
 
@@ -11,8 +12,6 @@ It is a "spatial tuning" version of the dynamical salience map models used in th
     Knops et al. (2014) Journal of Neuroscience
 
 Please see **documentation/tuningmodelmethods.pdf** for an in-depth description of how this works.
-
-![alt text](https://github.com/StanfordCosyne/spatial_tuning_model/blob/fc2698ac556504eb84e887d9e1ac6af6496939b3/figures/methods_figure.png)
 
 The code is designed to be run on an roi-by-roi basis. Below are descriptions of the necessary files:
 
