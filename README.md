@@ -44,10 +44,11 @@ on the cluster, but this is not necessary if your initial job requests enough me
 
 ### scripts/candidate_models.py
 This file holds each of the model definitions and is called by run_models.py. The models are:
-	- test_model: a simple model with normally distributed random data for sanity checks
-	- unpooled_model: a non-hierarchical version of the spatial tuning model
-	- hierarchical_model: the primary hierarchical spatial tuning model 
-	- dd_null_model: A model with hardcoded priors from the hierarchical_model; experimental!
+
+    test_model: a simple model with normally distributed random data for sanity checks
+    unpooled_model: a non-hierarchical version of the spatial tuning model
+    hierarchical_model: the primary hierarchical spatial tuning model    
+    dd_null_model: A model with hardcoded priors from the hierarchical_model; experimental!
 
 ### scripts/analysis.py
 This script is called after models are fit to extract values for alpha (excitation), beta (inhibition),
