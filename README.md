@@ -40,7 +40,7 @@ any models being run
 This script will load all of the models you are going to run (for each subject, roi, task, and condition)
 and then run them in parallel using the joblib.Parallel package. NOTE: This is not configured for job
 submission on sherlock! It might be a good idea to replace these functions with separate job submissions
-on the cluster, but this is not necessary if your initial job requests enough memory for your models
+on the cluster, but this is not necessary if your initial job requests enough memory and nodes for your models.
 
 ### scripts/candidate_models.py
 This file holds each of the model definitions and is called by run_models.py. The models are:
