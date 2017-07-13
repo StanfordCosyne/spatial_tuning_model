@@ -6,7 +6,7 @@
 This repository contains code for the tuning model originally used for the study:
 
     Computational modeling reveals weak spatial tuning of problem representations in children with dyscalculia
-    Teresa Iuculano, Jonathan Nicholas, Ting-Ting Chang, Arron, W. S. Metcalfe, Vinod Menon
+    Teresa Iuculano, Jonathan Nicholas, Ting-Ting Chang, Arron Metcalfe, Vinod Menon
 
 It is a "spatial tuning" version of the dynamical salience map models used in the following:
 
